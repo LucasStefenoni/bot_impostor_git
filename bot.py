@@ -44,7 +44,7 @@ async def jogadores(ctx:commands.Context):
 
 @bot.command()
 async def jogar(ctx:commands.Context):
-    if (len(lista) < 1):
+    if (len(lista) < 3):
         await ctx.send(f"jogadores insuficientes")
     else:
         #variáveis
