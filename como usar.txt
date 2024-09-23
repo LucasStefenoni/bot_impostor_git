@@ -1,0 +1,16 @@
+Use "a!" no começo de todos os comandos;
+
+COMANDOS:
+add = entrar como jogador;
+jogadores = ver jogadores que vãoa jogar;
+jogar = começar jogo;
+limpar = limpar lista de jogadores.
+
+O que é o jogo do impostor?
+  O jogo enviará uma mesma palavra para cada jogador, com a exceção do impostor, que receberá outra palavra. 
+  Por meio de rodadas com perguntas e respostas sobre determinada palavra, os jogadores terão que adivinhar quem
+  é o impostor, enquanto o impostor terá que acertar qual é a palavra certa.
+  O impostor ganhará quando não for descoberto ou quando acertar a palavra.
+  Os demais jogadores ganharão quando acertar quem é o impostor.
+
+ATENÇÃO!!! PARA O JOGO FUNCIONAR É NECESSÁRIO PERMITIR MENSAGENS PRIVADAS DE QUEM NÃO É SEU AMIGO NO DISCORD! 
