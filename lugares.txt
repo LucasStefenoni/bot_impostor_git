@@ -1,0 +1,81 @@
+Igreja
+Escola
+Shopping
+Parque
+Supermercado
+Hospital
+Biblioteca
+Estação de trem
+Rodoviária
+Praia
+Museu
+Restaurante
+Cinema
+Academia
+Teatro
+Posto de gasolina
+Correios
+Farmácia
+Banco
+Clube
+Mercado
+Estádio
+Universidade
+Aeroporto
+Delegacia
+Prefeitura
+Zoológico
+Cemitério
+Oficina
+Loja de conveniência
+Padaria
+Ponto de ônibus
+Posto de saúde
+Campo de futebol
+Lavanderia
+Lanchonete
+Porto
+Praça
+Cabeleireiro
+Escritório
+Escritório de advocacia
+Consultório médico
+Barbearia
+Terminal de ônibus
+Estúdio de fotografia
+Salão de festas
+Centro de convenções
+Centro comunitário
+Parque de diversões
+Shopping de eletrônicos
+Shopping de roupas
+Shopping de móveis
+Shopping de brinquedos
+Biblioteca infantil
+Escola de inglês
+Clínica odontológica
+Clínica veterinária
+Clínica de estética
+Laboratório de análises
+Loja de roupas
+Loja de sapatos
+Estação de metrô
+Terminal ferroviário
+Terminal marítimo
+Terminal aéreo
+Ponto turístico
+Ponte
+Farol
+Observatório
+Planetário
+Horto florestal
+Jardim botânico
+Vinícola
+Fazenda
+Cachoeira
+Caverna
+Floresta
+Reserva natural
+Camping
+Mirante
+Montanha
